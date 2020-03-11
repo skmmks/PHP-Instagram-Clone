@@ -4,11 +4,11 @@
 <div class="container">
     <div class="row">
         <div class="col-3">
-            <!-- <img src="https://havecamerawilltravel.com/photographer/files/2016/04/Instagram-Logo-2016.jpg" alt=""> -->
+            <img class="instagram-icon" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" alt="">
         </div>
         <div class="col-9">
         
         </div>
-    </div>
+    </div>    
 </div>
 @endsection
